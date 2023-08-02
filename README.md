@@ -7,6 +7,8 @@
 
 - 👨‍💻 Mis proyectos personales se irán publicando en [Mi portafolio personal](https://josesilva-portafolio.vercel.app/)
 
+- 🧑‍💻 Mi github personal : [Perfil de github](https://github.com/ShindouAstrea)
+  
 - 📫 Contáctame a **jose.silva.a@mail.pucv.cl**
 
 - 🏢 Cargo actual : Ingeniero de desarrollo en CDGO
